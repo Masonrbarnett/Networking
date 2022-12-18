@@ -7,3 +7,10 @@
 ## TCP Ports
 - Port 80: the port that the server "listens to" or expects to receive from a Web client
 - Port 443: HTTPS port 443 is used to secure a communication channel between two devices
+## Questions
+- 16 Hops
+- ISP: AT&T
+- Hops Away: 4
+- 10.74.6.44 Atlanta/Georgia/United States
+- 129.250.3.129 New York City/New York/United States
+- 12.151.98.130 Atlanta/Georgia/United States
